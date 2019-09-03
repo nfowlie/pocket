@@ -1,0 +1,16 @@
+{
+    "name": "Pocket: A DMs Guide",
+    "short_name": "Pocket",
+    "description": "PWA for a Campaign manager app",
+    "icons":[
+        {
+            "src": "icons/icon-16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "theme_color": "#b12a34",
+    "background_color": "#b12a34"
+}
