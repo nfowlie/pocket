@@ -5,9 +5,8 @@ var appShellFiles = [
     '/pocket/index.html',
     '/pocket/js/app.js',
     '/pocket/css/style.css',
-    '/pocket/icons/icon-16.png'
+    '/pocket/icons/icon-192.png'
 ]
-console.log('sdfsdf');
 
 var contentToCache = appShellFiles;
 
