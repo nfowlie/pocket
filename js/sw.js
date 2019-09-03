@@ -2,9 +2,9 @@
 
 var cacheName = 'pocket-v1';
 var appShellFiles = [
-    '/index.html',
-    '/js/app.js',
-    '/css/style.css'
+    './index.html',
+    './js/app.js',
+    './css/style.css'
 ]
 console.log('sdfsdf');
 
