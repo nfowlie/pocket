@@ -4,7 +4,8 @@ var cacheName = 'pocket-v1';
 var appShellFiles = [
     '/pocket/index.html',
     '/pocket/js/app.js',
-    '/pocket/css/style.css'
+    '/pocket/css/style.css',
+    '/pocket/icons/icon-16.png'
 ]
 console.log('sdfsdf');
 
